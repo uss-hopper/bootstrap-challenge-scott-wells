@@ -5,6 +5,11 @@ body div.container nav a h2 {
 .lead {
 	font-size: 1.65rem;
 }
+
+.section-3,
+.section-3 div {
+	background-color: lightgray;
+}
 /*body div.container div.jumbotron div.container h1 {*/
 	/*font-weight: bold;*/
 /*}*/
