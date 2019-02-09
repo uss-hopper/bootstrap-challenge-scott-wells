@@ -2,6 +2,9 @@ body div.container nav a h2 {
 	font-weight: normal;
 }
 
+.lead {
+	font-size: 1.65rem;
+}
 /*body div.container div.jumbotron div.container h1 {*/
 	/*font-weight: bold;*/
 /*}*/
